@@ -30,7 +30,7 @@ The dashboard is composed of 6 linked worksheets combined into a single interact
  
 ## 🧠 About the Dataset
  
-- **Source:** [Kaggle](https://www.kaggle.com/) — Student Depression Dataset
+- **Source:** [Kaggle](https://www.kaggle.com/) - Student Depression Dataset
 - **Format:** Microsoft Excel (.xlsx), embedded in the workbook as a Tableau Extract for portability
 - **Granularity:** One row per student record
 ### Key Fields Used
@@ -47,7 +47,7 @@ The dashboard is composed of 6 linked worksheets combined into a single interact
  
 ## 🧹 Data Cleaning & Preprocessing
  
-Raw data was cleaned and preprocessed using **SQL** before being loaded into Tableau — handling tasks such as removing duplicate/null records, standardizing categorical values (e.g. sleep duration buckets), and structuring the dataset for direct use in Tableau worksheets.
+Raw data was cleaned and preprocessed using **SQL** before being loaded into Tableau - handling tasks such as removing duplicate/null records, standardizing categorical values (e.g. sleep duration buckets), and structuring the dataset for direct use in Tableau worksheets.
  
 ---
  

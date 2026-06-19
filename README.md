@@ -1,4 +1,4 @@
-# 🎓 Student Depression Analysis — Tableau Dashboard
+# 🎓 Student Depression Analysis - Tableau Dashboard
  
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/Data%20Cleaning-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -37,8 +37,8 @@ The dashboard is composed of 6 linked worksheets combined into a single interact
  
 | Field | Description |
 |---|---|
-| Sleep Duration | Categorical buckets — *Less than 5 hours, 5-6 hours, 7-8 hours, More than 8 hours* |
-| Study Hours | Numeric — hours spent studying |
+| Sleep Duration | Categorical buckets - *Less than 5 hours, 5-6 hours, 7-8 hours, More than 8 hours* |
+| Study Hours | Numeric - hours spent studying |
 | Study Satisfaction | Rated scale (1–5) |
 | Academic Pressure | Rated scale (1–5) |
 | Financial Stress | Rated scale (1–5) |
@@ -82,10 +82,10 @@ student-depression-analysis/
  
 ## 🛠️ Tools Used
  
-- **SQL** — data cleaning & preprocessing
-- **Tableau Desktop** — dashboard design & calculated fields
-- **Tableau Public Cloud** — live deployment & public hosting
-- **Microsoft Excel** — source data format
+- **SQL** - data cleaning & preprocessing
+- **Tableau Desktop** - dashboard design & calculated fields
+- **Tableau Public Cloud** - live deployment & public hosting
+- **Microsoft Excel** - source data format
 ---
  
 ## 👤 Author
